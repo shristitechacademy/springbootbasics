@@ -1,0 +1,6 @@
+employee:
+  employeeName: Sri
+  employeeId: 10
+  address:
+   city: ooty
+   state: Tamilnadu
